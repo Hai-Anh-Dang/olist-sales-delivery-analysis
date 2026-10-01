@@ -1,0 +1,15 @@
+.env
+.env.*
+__pycache__/
+.venv/
+.pbi/
+*.pbix
+*.pbit
+*.bak
+*.mdf
+*.ldf
+*.log
+~$*
+data/raw/
+data/private/
+backups/
