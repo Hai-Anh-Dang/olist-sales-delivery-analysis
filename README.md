@@ -15,12 +15,12 @@ Where are the most commercially material sales and delivery patterns, and which 
 - Delivered merchandise value totalled **13.22M** in source monetary units, excluding freight.
 - Health and beauty, watches and gifts, and bed, bath and table generated **25.89%** of delivered merchandise value.
 - **93.23%** of eligible delivered orders were on time; **6,534** were late.
-- In the August 2018 purchase cohort, São Paulo accounted for **285 of 393** late orders.
+- In the August 2018 purchase cohort, Sao Paulo accounted for **285 of 393** late orders.
 - Recorded cancellations were **625 of 99,441 orders (0.63%)**; August and February 2018 had the largest cancellation counts.
 
 ## Recommendations
 
-- Review the August 2018 São Paulo cohort and orders linked to commercially material sellers before proposing operational changes.
+- Review the August 2018 Sao Paulo cohort and orders linked to commercially material sellers before proposing operational changes.
 - Combine category contribution with service outcomes rather than using value alone for prioritisation.
 - Investigate cancellation records in larger cohorts first, especially August and February 2018.
 - Keep order-level delivery outcomes separate from item-level value and show eligible denominators beside rates.
