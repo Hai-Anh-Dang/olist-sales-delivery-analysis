@@ -1,6 +1,6 @@
 # Power BI
 
-This folder documents the planned report. A completed PBIX or public report is not included in this release.
+Power BI Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMzE1OWZlYzctMzA5NC00YTljLWExYTItNWIzNjJlZWJjM2M4IiwidCI6Ijc1ZGIzZDY4LTExMGYtNDI1NS05MTE5LWFhNjMxOGMyMDY2YyJ9
 
 | Planned page | Business purpose |
 | --- | --- |
